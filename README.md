@@ -1,7 +1,6 @@
 ## Olá! Eu sou Giovane
 
 <div>
-  <img line_heigth=200 src="https://github-readme-stats.vercel.app/api?username=0Giovane&theme=dracula&show_icons=true"/>
   <img heigth=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=0Giovane&theme=gotham&show_icons=true"/>
 </div>
 
